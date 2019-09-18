@@ -1,6 +1,6 @@
 # Paper List
 List of papers I have presented in daily meeting sections.
-## 2019-08
+# 2019-08
 |Field|Title|Source|Year|
 |-|-|-|-|
 |CS|[Exploring Student Check-In Behavior for Improved Point-of-Interest Prediction](https://dl.acm.org/citation.cfm?id=3219902)|KDD|2018|
@@ -15,7 +15,7 @@ List of papers I have presented in daily meeting sections.
 |ECON|[Does subway expansion improve air quality?](https://www.sciencedirect.com/science/article/pii/S0095069618309173)|Journal of Environmental Economics and Management|
 |ECON|[Quantifying the rebound effects of residential solar panel adoption](https://www.sciencedirect.com/science/article/abs/pii/S0095069618309203)|Journal of Environmental Economics and Management|
 |ECON|[Environmental regulation as a double-edged sword for housing markets: Evidence from the NOx Budget Trading Program](https://www.sciencedirect.com/science/article/abs/pii/S0095069618304509)|Journal of Environmental Economics and Management|
-|ECON|Microclimate effects of wind farms on local crop yields|Journal of Environmental Economics and Management|
+|ECON|[Microclimate effects of wind farms on local crop yields](https://www.sciencedirect.com/science/article/abs/pii/S0095069618306545)|Journal of Environmental Economics and Management|
 |ECON|[Temperature and industrial output: Firm-level evidence from China](https://www.sciencedirect.com/science/article/abs/pii/S009506961730520X)|Journal of Environmental Economics and Management|
 |CS|[Collaborative User Network Embedding for Social Recommender System](https://epubs.siam.org/doi/abs/10.1137/1.9781611974973.43)|SDM|2017|
 |CS|[Ranking in Heterogeneous Networks with Geo-Location Information](https://epubs.siam.org/doi/abs/10.1137/1.9781611974973.46)|SDM|2017|
